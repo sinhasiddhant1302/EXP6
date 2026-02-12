@@ -1,6 +1,6 @@
 # 🐍 Study of Conditional Statements in Python
 
-
+### AIM: Study of Conditional Statements in Python
 
 ### 6a. Check if a number is positive, negative, or zero
 *Check if a number is positive, negative, or zero.*
@@ -100,7 +100,7 @@
 
 + If true : print "F GRADE"
 
-+ **Stop**
+ **Stop**
 
 
 
@@ -119,7 +119,7 @@
 ### 6f. Leap Year Verification
 **Start**
 
-Input the year as variable year.
+* Input the year as variable year.
 * **Condition 1:** Year is divisible by 400.
 * **OR**
 * **Condition 2:** Year is divisible by 4 **AND** NOT divisible by 100.
@@ -155,7 +155,7 @@ Input the year as variable year.
 ## 💰 5. Financial & Tax Algorithms
 
 ### 6i. Gross Salary Calculation
-+ **Start**
+ **Start**
 
 + Get Salary From user
 
@@ -171,7 +171,7 @@ Input the year as variable year.
 
 + Print gross salary
 
-+ **Stop**
+ **Stop**
 
 | Basic Salary | HRA | DA |
 | :--- | :--- | :--- |

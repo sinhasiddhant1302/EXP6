@@ -3,6 +3,13 @@
 ## AIM:
 Study of Conditional Statements in Python
 
+## THEORY:
+**if:** The start of the condition. The code block following it runs only if the condition is True.
+
+**elif (else if):** Used to check additional conditions if the previous if (or elif) was False.
+
+**else:** The "catch-all" block. It runs if all previous conditions were False. It does not take a condition.
+
 ## ALGORITHM:
 
 ### 6a. Check if a number is positive, negative, or zero
@@ -216,3 +223,6 @@ Study of Conditional Statements in Python
 * **2,50,000 – 5,00,000:** $5\% \times (Income - 2,50,000)$
 * **5,00,001 – 10,00,000:** $12,500 + 20\% \times (Income - 5,00,000)$
 * **Above 10,00,000:** $1,12,500 + 30\% \times (Income - 1,000,000)$
+
+## CONCLUSION:
+We studied about the conditional statements in python and also solved question based on it.

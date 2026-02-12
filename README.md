@@ -1,6 +1,9 @@
 # 🐍 Study of Conditional Statements in Python
 
-### AIM: Study of Conditional Statements in Python
+## AIM:
+Study of Conditional Statements in Python
+
+## ALGORITHM:
 
 ### 6a. Check if a number is positive, negative, or zero
 *Check if a number is positive, negative, or zero.*
